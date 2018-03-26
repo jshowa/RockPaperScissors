@@ -24,3 +24,6 @@ If we want it to play similar to a card game, we'll need to consider traditional
 For example, most card games are for two or more players and generally rely on a draw one, play one flow. For Rock Paper Scissors, we could come up with additional mechanics to make the game more interesting.
 * Would it be fun if the game could be played by more than two players?
 * should modifier cards exist in any way? like skip a turn,  redirect 'attack',etc
+
+# Tools
+UMLet - Opensource UML diagraming tool (.uxf files) http://www.umlet.com/
