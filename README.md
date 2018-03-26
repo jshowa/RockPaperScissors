@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is the readme for RockPaperScissors card game.
 =======
 03/25/2018 [jpremill] - consider this readme a planning document for the time being. We'll split off documentation if/when necessary.
@@ -25,16 +24,3 @@ If we want it to play similar to a card game, we'll need to consider traditional
 For example, most card games are for two or more players and generally rely on a draw one, play one flow. For Rock Paper Scissors, we could come up with additional mechanics to make the game more interesting.
 * Would it be fun if the game could be played by more than two players?
 * should modifier cards exist in any way? like skip a turn,  redirect 'attack',etc
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> 48983b1b13787a314083edbf16349907dcd769a3
